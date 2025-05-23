@@ -61,7 +61,7 @@ A lightweight, multi-model chat application featuring several small language mod
 
 1. **Run the application**
    ```bash
-   uv run main.py
+   uv run app.py
    ```
 
 2. **Open your browser**

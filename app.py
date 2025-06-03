@@ -283,4 +283,4 @@ with gr.Blocks(theme="soft") as demo:
     )
     clear.click(lambda: None, None, chatbot, queue=False)
 
-demo.launch()
+demo.launch(share=True)
